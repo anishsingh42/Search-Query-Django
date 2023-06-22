@@ -8,7 +8,7 @@
 
 ## Usage
 
-To run the ProBlogs project locally, follow these steps:
+To run the Search-Query-Django project locally, follow these steps:
 1. Clone the repository:
    ```git clone  https://github.com/anishsingh42/Search-Query-Django.git```
 2. Navigate to the project directory: cd Search-Query-Django
