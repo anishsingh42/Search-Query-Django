@@ -1,5 +1,10 @@
 # Search-Query-Django
 
+## Features 
+1. Displays all the data from the restaurants.csv file.
+2. Interative front-end design
+3. Can perform search query on the basis of Name, Location, ID and Latitude/Longitude.
+4. Shows the items list for the specific restaurant along with the details.
 
 ## Usage
 
@@ -14,9 +19,7 @@ To run the ProBlogs project locally, follow these steps:
 
 
 ## Images of Application
-<img src="imgs/screenshots/home_page.jpg" alt="Home Page" title="Home Page">
-<img src="imgs/screenshots/search_nagawara_location.jpg" alt="Search Function" title="Searching by location">
-<img src="imgs/screenshots/search_results_nagawara.jpg" alt="Search Results of Nagawara" title="Search Results of Nagawara">
-<img src="imgs/screenshots/items_list_the_runaway_chef.jpg" alt="Items List of The Runaway Chef Restaurant" title="Items List of The Runaway Chef Restaurant">
-<img src="imgs/screenshots/full_details_meghana_biriyanis.jpg" alt="Full Details of Meghana Biryanis" title="Full Details of Meghana Biryanis">
-<img src="imgs/screenshots/search_not_found.jpg" alt="Search Not Found for the grand" title="Search not found for the grand">
+All Images added to the imgs/screenshots folder
+
+## Demo of the application
+```https://drive.google.com/file/d/1Tb8grMwfmRFB6xQRbuyYSqsvDYoK5Jcs/view?usp=sharing```
